@@ -1,9 +1,9 @@
 
 **The growth mindset**
 
-#By: Coel
-##Codefellows class
-####2019
+# By: Coel
+## Codefellows class
+#### 2019
 
 One can never stop learning.  We should never think that "we have arrived" when we learn.
 From the womb, and before, learning starts and should always be continued.  There are some 
