@@ -2,6 +2,7 @@
 **The growth mindset**
 
 By: Coel
+
 ####Codefellows class####
 
 One can never stop learning.  We should never think that "we have arrived" when we learn.
