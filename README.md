@@ -14,4 +14,4 @@ Three ways to help me keep a "growth mindset" are:
 - Use your mental functions often - as you would exercise if you were a physical trainer.
 
 
-For more information on the growth mindset go to the search engine called [Bing](bing.com)  
+For more information on the growth mindset go to the search engine called [Bing](http://www.bing.com)  
