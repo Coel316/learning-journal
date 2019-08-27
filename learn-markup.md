@@ -3,10 +3,9 @@
 Learning Markdown is simple.
 With Markdown you can simply read and write syntax for formatting plain text.
 
-Markdown can be used to: 
-1. Make words **bold**, *italics*, change font size, etc
+Markdown is used to make words **bold**, *italics*, change font size, etc
 
-Markdown can be used for 
+Markdown can also be used for: 
 - Lists
 - Spacing
 - Tables
