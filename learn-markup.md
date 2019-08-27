@@ -14,4 +14,4 @@ Markdown can be used for
 - Embedding images ->> and much more
 
 In conclusion Markdown is a light weight markup language for generating html files and can be used 
-everywhere on a website - just like Github.
+everywhere on a website - just like [Github](http://www.github.com)
